@@ -2,13 +2,16 @@
 
 👨🏻‍💻 Me llamo Luz y soy desarrolladora de software en C# y tengo 2 gatos 🐱
 
-📓 Actualmente estoy aprendiendo Unit Testing, TDD, algunos conceptos de programación avanzanda en C# y principios de arquitectura.
+📓 Actualmente estoy aprendiendo algunos conceptos de programación avanzanda en C# y principios de arquitectura.
 
 Intereses:
 - 💻 Ingeniería de Software
 - 🧠 Arquitectura de Software
 - ☁️ Computación en la nube
-- 🎥 Cine Independiente
+- 💡 Emprendimiento
+- 🤝 Networking, Hacer comunidad
+- 🎙️ Conferencias y Eventos
+- 📝 Organizar eventos
 
 
 <!--
