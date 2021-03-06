@@ -1,4 +1,17 @@
-### Hi there 👋
+### ¡Hola Mundo! 👋
+
+👨🏻‍💻 Me llamo Luz y soy desarrolladora de software en C#
+
+Soy Full Stack .net
+
+También tengo 2 gatos 🐱
+
+
+Intereses:
+- 💻 Ingeniería de Software
+- 🧠 Arquitectura de Software
+- ☁️ Computación en la nube
+
 
 <!--
 **luzyrawr/luzyrawr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
