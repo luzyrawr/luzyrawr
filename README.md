@@ -7,6 +7,7 @@ Soy Full Stack .net
 También tengo 2 gatos 🐱
 
 
+
 Intereses:
 - 💻 Ingeniería de Software
 - 🧠 Arquitectura de Software
