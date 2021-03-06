@@ -1,17 +1,14 @@
 ### ¡Hola Mundo! 👋
 
-👨🏻‍💻 Me llamo Luz y soy desarrolladora de software en C#
+👨🏻‍💻 Me llamo Luz y soy desarrolladora de software en C# y tengo 2 gatos 🐱
 
-Soy Full Stack .net
-
-También tengo 2 gatos 🐱
-
-
+📓 Actualmente estoy aprendiendo Unit Testing, TDD, algunos conceptos de programación avanzanda en C# y principios de arquitectura.
 
 Intereses:
 - 💻 Ingeniería de Software
 - 🧠 Arquitectura de Software
 - ☁️ Computación en la nube
+- 🎥 Cine Independiente
 
 
 <!--
