@@ -41,13 +41,7 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 - 🌲 Senderismo
 
 ### Habilidades
-- Análisis
-- Autogestión
-- Autodidacta
-- Orientada a Detalles
-- Enfocada en Resultados
-- Problem Solver
-- Liderazo
+Análisis, Autogestión, Autodidacta, Orientada a Detalles, Enfocada en Resultados, Problem Solver, Liderazo
 
 ### Temas de Interés
 Estos son algunos de mis temas de interés dentro del Desarrollo de Software que me gustaría perfeccionar, ampliar y/o adquirir.
