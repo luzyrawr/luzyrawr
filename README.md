@@ -18,15 +18,6 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 - 4 años desarrollando Core Banking y SaaS en una Fintech Mexicana!
 - 3 años emprendiendo mi propio negocio, haciendo comunidad, impulsando el arte, la cultura y el emprendimiento.
 
-### Habilidades
-- Análisis
-- Autogestión
-- Autodidacta
-- Orientada a Detalles
-- Enfocada en Resultados
-- Problem Solver
-- Liderazo
-
 ---
 
 ### Intereses
@@ -48,6 +39,15 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 - 🎮 Videojuegos independientes
 - 🧩 Juegos de lógica y acertijos
 - 🌲 Senderismo
+
+### Habilidades
+- Análisis
+- Autogestión
+- Autodidacta
+- Orientada a Detalles
+- Enfocada en Resultados
+- Problem Solver
+- Liderazo
 
 ### Temas de Interés
 Estos son algunos de mis temas de interés dentro del Desarrollo de Software que me gustaría perfeccionar, ampliar y/o adquirir.
