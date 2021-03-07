@@ -18,6 +18,14 @@
 - 🎙️ Conferencias 
 - 📝 Organizar Eventos
 
+### Pasatiempos
+- 🎸 Música y conciertos locales
+- 🥁 Tocar la batería
+- 🛹 Deportes extremos
+- 🎨 Eventos de arte y cultura
+- 🎬 Cine independiente
+- 🎮 Videojuegos independientes
+- 🌲 Senderismo
 
 <!--
 **luzyrawr/luzyrawr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
