@@ -8,14 +8,6 @@ Tengo 11 años Desarrollando Software en giros como: Retail, Servicios Financier
 
 **También soy Co-Founder de [Casa Aomori](https://www.casaaomori.com/)**
 
-### Habilidades
-- Análisis
-- Autogestión
-- Autodidacta
-- Orientada a Detalles
-- Enfocada en Resultados
-- Problem Solver
-- Liderazo
 
 ### Repositorios
 En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Software y de Fundamentamentos de Programación, así como algunos ejercicios que he realizado.
@@ -25,6 +17,15 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 ### ⚡ Mejor experiencia:
 - 4 años desarrollando Core Banking y SaaS en una Fintech Mexicana!
 - 3 años emprendiendo mi propio negocio, haciendo comunidad, impulsando el arte, la cultura y el emprendimiento.
+
+### Habilidades
+- Análisis
+- Autogestión
+- Autodidacta
+- Orientada a Detalles
+- Enfocada en Resultados
+- Problem Solver
+- Liderazo
 
 ---
 
