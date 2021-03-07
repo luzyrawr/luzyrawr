@@ -36,6 +36,7 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 - 🎨 Eventos de arte y cultura
 - 🎬 Cine independiente
 - 🎮 Videojuegos independientes
+- 🧩 Juegos de lógica y acertijos
 - 🌲 Senderismo
 
 ### Temas de Interés
