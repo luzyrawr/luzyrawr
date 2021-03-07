@@ -1,20 +1,22 @@
 ### ¡Hola Mundo! 👋
 
-👨🏻‍💻 Me llamo Luz, soy desarrolladora de software en C# y tengo 2 gatos 🐱
+👨🏻‍💻 Me llamo Luz. Desarrollo Software en C# y tengo 2 gatos 🐱🐱
 
-📓 Actualmente estoy aprendiendo algunos conceptos de programación avanzanda en C# y principios de arquitectura.
+**Soy Co-Founder de [Casa Aomori](https://www.casaaomori.com/)**
+
+📓 Actualmente estoy aprendiendo algunos conceptos de Programación Avanzanda en C#, Unit Testing, TDD y Clean Architecture.
+
+---
 
 Intereses:
 - 💻 Ingeniería de Software
 - 🧠 Arquitectura de Software
 - ☁️ Computación en la nube
-- 💡 Emprendimiento
+- 💡 Arte, Cultura y Emprendimiento
 - 🤝 Networking
 - ✌️ Hacer comunidad
-- 🎙️ Conferencias
-- 📝 Organizar eventos
-
-Co-Founder: @casa.aomori
+- 🎙️ Conferencias 
+- 📝 Organizar Eventos
 
 
 <!--
