@@ -8,7 +8,7 @@
 
 ---
 
-Intereses:
+### Intereses
 - 💻 Ingeniería de Software
 - 🧠 Arquitectura de Software
 - ☁️ Computación en la nube
