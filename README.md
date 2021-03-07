@@ -9,10 +9,11 @@ Tengo 11 años Desarrollando Software en giros como: Retail, Servicios Financier
 **También soy Co-Founder de [Casa Aomori](https://www.casaaomori.com/)**
 
 ### Habilidades
-- Capacidad de Análisis
+- Análisis
 - Autogestión
 - Autodidacta
-- Orientada a Resultados
+- Orientada a Detalles
+- Enfocada en Resultados
 - Problem Solver
 - Liderazo
 
