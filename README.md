@@ -8,6 +8,9 @@ Tengo 11 años Desarrollando Software en giros como: Retail, Servicios Financier
 
 **También soy Co-Founder de [Casa Aomori](https://www.casaaomori.com/)**
 
+### Repositorios
+En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Software y de fundamentamentos de programación, así como algunos ejercicios que he realizado.
+
 ---
 
 ### ⚡ Mejor experiencia:
