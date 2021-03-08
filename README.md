@@ -13,7 +13,7 @@
 :octocat: En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Software y de Fundamentamentos de Programación, así como algunos ejercicios que he realizado.
 
 ## ⚡ Mejores experiencias
-- Desarrollando Core Banking y SaaS en una Fintech Mexicana! (4 años)
+- Desarrollando Core Banking y SaaS bajo metodología Scrum en una Fintech Mexicana! (4 años)
 - Emprendiendo mi propio negocio, haciendo comunidad, impulsando el arte, la cultura y el emprendimiento. (3 años)
 
 ## Sobre mí
