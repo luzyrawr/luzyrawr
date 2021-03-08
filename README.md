@@ -4,12 +4,12 @@
 
 💼 Tengo 11 años Desarrollando Software en giros como: Retail, Servicios Financieros, Rastreo Satelital, Manufactura.
 
-📓 Actualmente estoy aprendiendo algunos conceptos de Programación Avanzanda en C#, Unit Testing, TDD y Clean Architecture.
+📚 Actualmente estoy aprendiendo algunos conceptos de Programación Avanzanda en C#, Unit Testing, TDD y Clean Architecture.
 
 💡 **También soy Co-Founder de [Casa Aomori](https://www.casaaomori.com/)**
 
 
-## Repositorios :octocat:
+## Repositorios 📓
 En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Software y de Fundamentamentos de Programación, así como algunos ejercicios que he realizado.
 
 ## Mejores experiencias ⚡
