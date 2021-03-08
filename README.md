@@ -1,4 +1,4 @@
-### ¡Hola Mundo! 👋
+# ¡Hola Mundo! 👋
 
 👨🏻‍💻 Me llamo Luz. Desarrollo Software en C# y tengo 2 gatos 🐱🐱
 
@@ -9,16 +9,14 @@ Tengo 11 años Desarrollando Software en giros como: Retail, Servicios Financier
 **También soy Co-Founder de [Casa Aomori](https://www.casaaomori.com/)**
 
 
-### Repositorios
+## Repositorios
 En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Software y de Fundamentamentos de Programación, así como algunos ejercicios que he realizado.
 
----
-
-### ⚡ Mejor experiencia:
+## ⚡ Mejor experiencia:
 - 4 años desarrollando Core Banking y SaaS en una Fintech Mexicana!
 - 3 años emprendiendo mi propio negocio, haciendo comunidad, impulsando el arte, la cultura y el emprendimiento.
 
----
+## Sobre mí
 
 ### Intereses
 - 💻 Ingeniería de Software
