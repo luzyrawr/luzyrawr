@@ -1,6 +1,6 @@
 # ¡Hola Mundo! 👋
 
-👨🏻‍💻 Me llamo Luz. Desarrollo Software en C# y tengo 2 gatos :octocat::octocat:
+👨🏻‍💻 Me llamo Luz. Desarrollo Software en C# y tengo 2 gatos 🐱🐱
 
 💼 Tengo 11 años Desarrollando Software en giros como: Retail, Servicios Financieros, Rastreo Satelital, Manufactura.
 
@@ -10,7 +10,7 @@
 
 
 ## Repositorios
-En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Software y de Fundamentamentos de Programación, así como algunos ejercicios que he realizado.
+:octocat: En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Software y de Fundamentamentos de Programación, así como algunos ejercicios que he realizado.
 
 ## ⚡ Mejores experiencias
 - Desarrollando Core Banking y SaaS en una Fintech Mexicana! (4 años)
