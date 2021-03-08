@@ -2,11 +2,11 @@
 
 👨🏻‍💻 Me llamo Luz. Desarrollo Software en C# y tengo 2 gatos 🐱🐱
 
-Tengo 11 años Desarrollando Software en giros como: Retail, Servicios Financieros, Rastreo Satelital, Manufactura.
+💼 Tengo 11 años Desarrollando Software en giros como: Retail, Servicios Financieros, Rastreo Satelital, Manufactura.
 
 📓 Actualmente estoy aprendiendo algunos conceptos de Programación Avanzanda en C#, Unit Testing, TDD y Clean Architecture.
 
-**También soy Co-Founder de [Casa Aomori](https://www.casaaomori.com/)**
+💡 **También soy Co-Founder de [Casa Aomori](https://www.casaaomori.com/)**
 
 
 ## Repositorios
