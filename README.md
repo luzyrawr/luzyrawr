@@ -18,6 +18,15 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 
 ## Sobre mí 💡
 
+### Habilidades
+🧠 Análisis
+⚙️ Autogestión
+📚 Autodidacta
+🔎 Orientada a Detalles
+✅ Enfocada en Resultados
+💡 Problem Solver
+🤝 Liderazo
+
 ### Temas de Interés
 Estos son algunos de mis temas de interés dentro del Desarrollo de Software que me gustaría perfeccionar, ampliar y/o adquirir.
 ![Full Stack Developer](https://github.com/luzyrawr/luzyrawr/blob/main/Full%20Stack%20Developer.png)
@@ -41,12 +50,3 @@ Estos son algunos de mis temas de interés dentro del Desarrollo de Software que
 🎮 Videojuegos independientes
 🧩 Juegos de lógica y acertijos
 🌲 Senderismo
-
-### Habilidades
-🧠 Análisis
-⚙️ Autogestión
-📚 Autodidacta
-🔎 Orientada a Detalles
-✅ Enfocada en Resultados
-💡 Problem Solver
-🤝 Liderazo
