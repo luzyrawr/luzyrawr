@@ -18,6 +18,10 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 
 ## Sobre mí 💡
 
+### Temas de Interés
+Estos son algunos de mis temas de interés dentro del Desarrollo de Software que me gustaría perfeccionar, ampliar y/o adquirir.
+![Full Stack Developer](https://github.com/luzyrawr/luzyrawr/blob/main/Full%20Stack%20Developer.png)
+
 ### Intereses
 💻 Ingeniería de Software
 🧠 Arquitectura de Software
@@ -46,22 +50,3 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 ✅ Enfocada en Resultados
 💡 Problem Solver
 🤝 Liderazo
-
-### Temas de Interés
-Estos son algunos de mis temas de interés dentro del Desarrollo de Software que me gustaría perfeccionar, ampliar y/o adquirir.
-![Full Stack Developer](https://github.com/luzyrawr/luzyrawr/blob/main/Full%20Stack%20Developer.png)
-
-<!--
-**luzyrawr/luzyrawr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
