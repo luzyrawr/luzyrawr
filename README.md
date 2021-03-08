@@ -1,6 +1,6 @@
 # ¡Hola Mundo! 👋
 
-👨🏻‍💻 Me llamo Luz. Desarrollo Software en C# y tengo 2 gatos 🐱🐱
+👨🏻‍💻 Me llamo Luz. Desarrollo Software en C# y tengo 2 gatos :octocat::octocat:
 
 💼 Tengo 11 años Desarrollando Software en giros como: Retail, Servicios Financieros, Rastreo Satelital, Manufactura.
 
