@@ -19,24 +19,24 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 ## Sobre mí 💡
 
 ### Intereses
-- 💻 Ingeniería de Software
-- 🧠 Arquitectura de Software
-- ☁️ Computación en la nube
-- 💡 Arte, Cultura y Emprendimiento
-- 🤝 Networking
-- ✌️ Hacer comunidad
-- 🎙️ Conferencias 
-- 📝 Organizar Eventos
+💻 Ingeniería de Software
+🧠 Arquitectura de Software
+☁️ Computación en la nube
+💡 Arte, Cultura y Emprendimiento
+🤝 Networking
+✌️ Hacer comunidad
+🎙️ Conferencias
+📝 Organizar Eventos
 
 ### Pasatiempos
-- 🎸 Música y conciertos locales
-- 🥁 Tocar la batería
-- 🛹 Deportes extremos
-- 🎨 Eventos de arte y cultura
-- 🎬 Cine independiente
-- 🎮 Videojuegos independientes
-- 🧩 Juegos de lógica y acertijos
-- 🌲 Senderismo
+🎸 Música y conciertos locales
+🥁 Tocar la batería
+🛹 Deportes extremos
+🎨 Eventos de arte y cultura
+🎬 Cine independiente
+🎮 Videojuegos independientes
+🧩 Juegos de lógica y acertijos
+🌲 Senderismo
 
 ### Habilidades
 Análisis, Autogestión, Autodidacta, Orientada a Detalles, Enfocada en Resultados, Problem Solver, Liderazo
