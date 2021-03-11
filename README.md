@@ -44,7 +44,7 @@ Estos son algunos de los temas dentro del Desarrollo de Software que me gustarí
 ### Pasatiempos
 🎸 Música y conciertos locales
 🥁 Tocar la batería
-🛹 Deportes extremos
+🛹 Patinar
 🎨 Eventos de arte y cultura
 🎬 Cine independiente
 🎮 Videojuegos independientes
