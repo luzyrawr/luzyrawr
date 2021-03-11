@@ -50,3 +50,4 @@ Estos son algunos de los temas dentro del Desarrollo de Software que me gustarí
 🎮 Videojuegos independientes
 🧩 Juegos de lógica y acertijos
 🌲 Senderismo
+✍️ Dibujar
