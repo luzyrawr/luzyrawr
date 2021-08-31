@@ -26,7 +26,7 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 
 ### Temas de Interés
 Estos son algunos de los temas dentro del Desarrollo de Software que me gustaría perfeccionar, ampliar y/o adquirir.
-![Full Stack Developer](https://github.com/luzyrawr/luzyrawr/blob/main/FullStack%20Developer.png)
+![Full Stack Developer](https://github.com/luzyrawr/luzyrawr/blob/main/FullStack%20Developer.jpg)
 
 ### Otros Intereses
 💻 Ingeniería de Software
