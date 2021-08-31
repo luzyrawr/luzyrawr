@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Me llamo Luz. Desarrollo Software en C# y tengo 2 gatos 🐱🐱
 
-💼 He desarrollado software en giros como: Jurídico, Retail, Servicios Financieros, Rastreo Satelital, Manufactura.
+💼 He desarrollado software en giros como: Servicios Jurídicos, Retail, Servicios Financieros, Rastreo Satelital, Manufactura.
 
 📚 Actualmente estoy aprendiendo algunos conceptos de Unit Testing y TDD.
 
