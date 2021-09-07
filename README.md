@@ -48,3 +48,4 @@ Estos son algunos de los temas dentro del Desarrollo de Software que me gustarí
 🧩 Juegos de lógica y acertijos
 🌲 Senderismo
 ✍️ Dibujar
+✂️ Arts & Crafts
