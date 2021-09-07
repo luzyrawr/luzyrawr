@@ -15,7 +15,7 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 
 ## Sobre mí 💡
 
-✌️ Me apasiona crear cosas! Utilizo mis habilidades para crear software, música, objetos, dibujos, escritos, etc.
+✌️ Me apasiona crear cosas! Utilizo mis habilidades para crear software, ideas de negocio, eventos, música, objetos, dibujos, escritos, etc. El conocimiento es infinito.
 
 ### Habilidades
 🧠 Análisis
