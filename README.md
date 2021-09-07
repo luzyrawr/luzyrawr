@@ -37,6 +37,7 @@ Estos son algunos de los temas dentro del Desarrollo de Software que me gustarí
 🧠 Arquitectura de Software
 ☁️ Computación en la nube
 🌐 Marketing Digital
+🤖 Chatbots
 💡 Arte, Cultura y Emprendimiento
 🤝 Networking
 ✌️ Hacer comunidad
