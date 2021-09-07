@@ -35,12 +35,12 @@ Estos son algunos de los temas dentro del Desarrollo de Software que me gustarí
 💻 Ingeniería de Software
 🧠 Arquitectura de Software
 ☁️ Computación en la nube
+🌐 Marketing Digital
 💡 Arte, Cultura y Emprendimiento
 🤝 Networking
 ✌️ Hacer comunidad
 🎙️ Conferencias
 📝 Organizar Eventos
-🌐 Marketing Digital
 
 ### Pasatiempos
 🎸 Música y conciertos locales
