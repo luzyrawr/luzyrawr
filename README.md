@@ -48,7 +48,7 @@ Estos son algunos de los temas dentro del Desarrollo de Software que me gustarí
 🎸 Música y conciertos locales
 🥁 Tocar la batería
 🛹 Patinar
-🎨 Eventos de arte y cultura
+🎨 Eventos de arte, cultura, tecnología y diseño
 🎬 Cine independiente
 🎮 Videojuegos independientes
 🧩 Juegos de lógica y acertijos
