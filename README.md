@@ -1,6 +1,6 @@
 # ¡Hola Mundo! 👋
 
-👨🏻‍💻 Me llamo Luz. Desarrollo Software en C# y tengo 2 gatos 🐱🐱 Me apasiona crear cosas ✌️
+👨🏻‍💻 Me llamo Luz. Desarrollo Software en C# y tengo 2 gatos 🐱🐱 
 
 💼 He desarrollado software en giros como: Servicios Jurídicos, Retail, Servicios Financieros, Rastreo Satelital, Manufactura.
 
@@ -14,6 +14,8 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 - Emprendiendo mi propio negocio, haciendo comunidad, organizando eventos, impulsando el arte, la cultura y el emprendimiento! (3 años)
 
 ## Sobre mí 💡
+
+✌️ Me apasiona crear cosas! Utilizo mis habilidades para crear software, música, objetos, dibujos, escritos, etc.
 
 ### Habilidades
 🧠 Análisis
