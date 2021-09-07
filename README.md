@@ -4,7 +4,7 @@
 
 💼 He desarrollado software en giros como: Servicios Jurídicos, Retail, Servicios Financieros, Rastreo Satelital, Manufactura.
 
-📚 Actualmente estoy repasando algunos conceptos de Javascript.
+📚 Actualmente estoy repasando algunos conceptos de Javascript, HTML5 y CSS3.
 
 ## Repositorios 📓
 En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Software y de Fundamentamentos de Programación, así como algunos ejercicios que he realizado.
