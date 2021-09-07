@@ -12,6 +12,7 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 ## Mejores experiencias ⚡
 - Desarrollando Core Banking y SaaS bajo metodología Scrum en una Fintech Mexicana! (4 años)
 - Emprendiendo mi propio negocio, haciendo comunidad, organizando eventos, impulsando el arte, la cultura y el emprendimiento! (3 años)
+- Líder de equipo y proyecto en una consultoría de software mexicana para clientes de USA! (6 meses)
 
 ## Sobre mí 💡
 
