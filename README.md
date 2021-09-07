@@ -1,6 +1,6 @@
 # ¡Hola Mundo! 👋
 
-👨🏻‍💻 Me llamo Luz. Desarrollo Software en C# y tengo 2 gatos 🐱🐱
+👨🏻‍💻 Me llamo Luz. Desarrollo Software en C# y tengo 2 gatos 🐱🐱 Me apasiona crear cosas ✌️
 
 💼 He desarrollado software en giros como: Servicios Jurídicos, Retail, Servicios Financieros, Rastreo Satelital, Manufactura.
 
