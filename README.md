@@ -23,6 +23,7 @@ En mis repositorios podrás encontrar apuntes teóricos de Ingeniería de Softwa
 ✅ Enfocada en Resultados
 💡 Problem Solver
 🤝 Liderazo
+✨ Creatividad
 
 ### Temas de Interés
 Estos son algunos de los temas dentro del Desarrollo de Software que me gustaría perfeccionar y/o ampliar.
