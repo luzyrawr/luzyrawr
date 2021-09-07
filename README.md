@@ -40,6 +40,7 @@ Estos son algunos de los temas dentro del Desarrollo de Software que me gustarí
 ✌️ Hacer comunidad
 🎙️ Conferencias
 📝 Organizar Eventos
+🌐 Marketing Digital
 
 ### Pasatiempos
 🎸 Música y conciertos locales
